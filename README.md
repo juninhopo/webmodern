@@ -1,2 +1,2 @@
-# webmoder
+# webmodern
 repository for JS classes
