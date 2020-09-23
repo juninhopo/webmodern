@@ -1,2 +1,2 @@
-# webmoderno
-Repositorio dedicado as aulas de JS
+# webmoder
+repository for JS classes
