@@ -3,7 +3,7 @@ function getInteiroAleatorioEntre(min, max) {
     return Math.floor(valor)
 }
 
-let opcao = 0
+let opcao = 0   
 let vezes = 0 //para o contador de vezes passado iniciar em 0
 
 while (opcao != -1) {
